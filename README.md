@@ -110,8 +110,8 @@ ipl-analysis-dashboard/
 
 ## 👤 Author
 
-* **Your Name**
-Sourish Dey
+* **Sourish Dey**
+
 
 ---
 
