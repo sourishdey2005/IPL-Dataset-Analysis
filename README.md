@@ -1,3 +1,4 @@
+
 # 🏏 Indian Premier League (IPL) Comprehensive Analysis Dashboard (2008–2018)
 
 ![Dashboard Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
@@ -17,7 +18,7 @@ The objective of this project is to transform raw, multi-season IPL match data i
 
 ## 🖥️ Dashboard Preview
 
-![IPL Analysis Dashboard](dashboard-preview.png)
+<img width="1132" height="627" alt="1f5d37a5-c3c4-4a44-8792-a523db11e81b" src="https://github.com/user-attachments/assets/53762788-b06c-4a7e-a652-1d3b37e1fb90" />
 
 ---
 
@@ -110,9 +111,7 @@ ipl-analysis-dashboard/
 ## 👤 Author
 
 * **Your Name**
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com)
-* **GitHub:** [@yourusername](https://github.com)
-* **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+Sourish Dey
 
 ---
 
